@@ -1,4 +1,4 @@
 export { Home } from './Home';
-export { Menus } from './Menus';
-export { Contact } from './Contact';
+export { Recipe } from './Recipe';
+export { Blog } from './Blog';
 export { About } from './About';

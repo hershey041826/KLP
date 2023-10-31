@@ -1,10 +1,9 @@
-import React from 'react'
 
-export const About = () => {
+export const Blog = () => {
   return (
     <main>
     <div className='component'>
-      About</div>
+      Blog</div>
     </main>
   )
 }
