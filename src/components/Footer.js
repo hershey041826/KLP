@@ -13,7 +13,7 @@ function SocialLink({ icon }) {
 
 export const Footer = () => {
   return (
-    <footer className="p-4 bg-orange-600  shadow md:flex md:items-center md:justify-center  dark:bg-gray-800">
+    <footer className="p-4 bg-orange-600  shadow md:flex md:items-center border-t-2 border-whitemd:justify-center  dark:bg-gray-800 bo">
       <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-center">
         <span className="text-sm text-black-500 sm:text-center dark:text-orange-600">
         <ul className="flex items-center mt-3 text-sm font-medium text-black-500 dark:text-orange-600 sm:mt-0">

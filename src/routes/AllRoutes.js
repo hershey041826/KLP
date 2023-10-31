@@ -3,7 +3,7 @@ import { Home, Recipe, Blog, About } from '../Pages';
 
 export const AllRoutes = () => {
   return (
-    <>
+    <div className='dark:bg-slate-800'>
      <Routes>
     <Route path="/"
       element={<Home />}/>
@@ -14,6 +14,6 @@ export const AllRoutes = () => {
     <Route path="About"
       element={<About />}/>
   </Routes>
-    </>
+    </div>
   );
 };
